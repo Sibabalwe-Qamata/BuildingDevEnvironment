@@ -6,7 +6,9 @@
 
 ### Editors and Configuration
 - Selecting appropriate JS editor
-- Enfourcing EditConfig
+- Front-End : VS Code, Atom, Brackets, Webstorm
+- Back-End : Netbeans, Eclipse, VS Studio
+- Automated Consistency EditorConfig
 
 ### Package Management
 - Bower, NPM , JSPM, JAM, VOLO
