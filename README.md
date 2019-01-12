@@ -1,6 +1,6 @@
 # BuildingDevEnvironment
 
-##Tools used
+## Tools used
 - Git & Github
 - Automated Deploy to Heroku
 
