@@ -6,12 +6,12 @@
 
 ### Editors and Configuration
 - Selecting appropriate JS editor
-- Front-End : VS Code, Atom, Brackets, Webstorm
+- Front-End : VS Code**, Atom, Brackets, Webstorm
 - Back-End : Netbeans, Eclipse, VS Studio
 - Automated Consistency EditorConfig
 
 ### Package Management
-- Bower, NPM , JSPM, JAM, VOLO
+- Bower, NPM** , JSPM, JAM, VOLO
 
 ### Development Webservers
 - http-server, live-server, express.js, budo 
