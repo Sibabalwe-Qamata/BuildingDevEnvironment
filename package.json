@@ -3,7 +3,11 @@
   "version": "1.0.0",
   "description": "JavaScript development environment",
   "scripts": {
-    "start": "node buildScripts/srcServer.js"
+    "prestart": "node buildScripts/startMessage.js",
+    "start": "npm-run-all --parallel open:src",
+    "open:src": "node buildScripts/srcServer.js",
+    "security-check": "nsp check",
+    "share":"lt --port 6011"
   },
   "author": "Sibabalwe Qamata",
   "license": "MIT",
