@@ -1,5 +1,6 @@
 # BuildingDevEnvironment
 [![Build Status](https://travis-ci.org/Sibabalwe-Qamata/BuildingDevEnvironment.svg?branch=master)](https://travis-ci.org/Sibabalwe-Qamata/BuildingDevEnvironment)
+[![Build status](https://ci.appveyor.com/api/projects/status/fgxboxe81cl2xw9x?svg=true)](https://ci.appveyor.com/project/Sibabalwe-Qamata/buildingdevenvironment)
 ## Tools used
 - Git & Github
 - Automated Deploy to Heroku
