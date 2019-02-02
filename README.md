@@ -45,6 +45,14 @@
 - Travis, Jenkins, Appveyor
 - CircleCi, Semaphore, SnapCI
 
+#### 6 Key Testing Decisions (Unit Test)
+- Choice a Framework : For JS : Mocha, Jasmine, Jest etc
+- Assertion Library : Like Chai, Should
+- Helper Libraries : JSDOM , Cheerio
+- Where to run tests : Browser (Karma, Testerm) | Headless Browser (PhantomJS) | In-memory DOM (JSDOM)  : Node
+- Where to place tests : Alongside
+- When to run tests : When you hitting save
+
 ### HTTP 
 - Node : http & request
 - Browser : XMLHttpRequest, jQuery, Fetch
