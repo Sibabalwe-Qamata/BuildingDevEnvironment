@@ -23,22 +23,15 @@
 - Grunt, Gulp, npm Scripts
 
 ### Transpling
-- Babel
-- TypeScript
-- Elm
+- Babel | TypeScript | Elm
 
 ### Bundling
 
-- Browserify
-- Webpack
-- Rollup
-- JSPM
+- Browserify | Webpack | Rollup | JSPM
 
 ### Linting
 
-- JSLint
-- JS Hint
-- ESLint
+- JSLint | JS Hint | ESLint
 
 ### Testing and Continuous Integration
 - Mocha, Jasmine, Tape, QUnit
