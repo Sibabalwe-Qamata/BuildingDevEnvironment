@@ -52,6 +52,15 @@
 - Browser : XMLHttpRequest, jQuery, Fetch
 - Node & Browser : isomorphic-fetch, xhr, SuperAgent, Axios
 
+#### Plan for a mock HTTP
+    1.Declare schema : JSON Schema Faker
+
+    2.Generate Random Data:
+     - faker.js | change.js | randexp.js
+
+    3.Server Data via API
+    -JSON Server
+
 ### Project Structure
 - Building scalable project structure
 
